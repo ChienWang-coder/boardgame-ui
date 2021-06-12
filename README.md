@@ -1,4 +1,4 @@
-# board
+# BoardGame-UI
 ## Updated
 
 ### 1.1.0 - Jun. 12, 2021
